@@ -1,0 +1,9 @@
+{
+    "Webhook": {
+        "Enabled": false,
+        "Url": "webhook url here"
+    },
+
+    "Min_length": 3,
+    "Max_length": 5
+}
